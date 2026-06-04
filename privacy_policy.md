@@ -1,4 +1,4 @@
-Privacy Policy URL (for Play Console): https://zeusowner.github.io/ybs-data/privacy_policy
+Privacy Policy URL (for Play Console): https://zeusowner.github.io/ybs-data/privacy_policy/
 
 # Privacy Policy - YBS Guide
 
